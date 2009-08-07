@@ -1,0 +1,9 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/CiviCRM/Client.pm
+lib/CiviCRM/Client/REST.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t

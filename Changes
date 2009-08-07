@@ -1,0 +1,5 @@
+Revision history for CiviCRM::Client::REST
+
+0.01    8-7-2009
+        First version, assumes an API cleanup on the CiviCRM side that is still in progress. So it won't work with 100% of the API just yet. Hopefully by the time CiviCRM 3.1 is out, that will all be cleaned up.
+
